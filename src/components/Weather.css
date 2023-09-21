@@ -1,0 +1,14 @@
+.hour {
+  display: flex;
+  justify-content: space-between;
+
+  background: #d27e39;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.temp {
+  display: flex;
+}
